@@ -23,7 +23,7 @@ function buildCV({ file, lang }) {
     .fillColor(GRAY)
     .fontSize(9)
     .font("Helvetica")
-    .text("Cologne, Germany  |  bonnyongom91@gmail.com  |  +49 1573 6792740  |  boshtech.site")
+    .text("Cologne, Germany  |  bonnyongom91@gmail.com  |  +49 1573 6792740  |  bonnyongom.com")
   doc.moveDown(0.8)
 
   const section = (title) => {
