@@ -9,7 +9,7 @@ export const profile = {
   location: "Cologne, Germany",
   email: "bonnyongom91@gmail.com",
   phone: "+49 1573 6792740",
-  portfolio: "https://boshtech.site",
+  portfolio: "https://bonnyongom.com/",
   github: "https://github.com/bonnyongom",
   photo: "/bonny-ongom.png",
   cvEnglish: "/cv/Bonny-Ongom-CV-English.pdf",
