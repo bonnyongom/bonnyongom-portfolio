@@ -11,7 +11,7 @@ const links = [
     external: false,
   },
   { label: "GitHub", value: "github.com/bonnyongom", href: profile.github, icon: Code2, external: true },
-  { label: "Portfolio", value: "boshtech.site", href: profile.portfolio, icon: Globe, external: true },
+  { label: "Portfolio", value: "bonnyongom.com", href: profile.portfolio, icon: Globe, external: true },
 ]
 
 export function ContactSection() {
